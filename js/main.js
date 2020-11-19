@@ -7,4 +7,4 @@ var frase = "Hoje o dia ta cansativo";
 console.log(nome);
 console.log(idade + idade2);
 console.log(frase.toUpperCase());
-alert(frase.replace("cansativo", "chato"));
+alert(frase.replace("cansativo", "bonito"));
